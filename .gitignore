@@ -1,0 +1,6 @@
+model/*.pkl
+model/*.zip
+model/*.jpg
+__pychache__/
+.vscode/
+env/
