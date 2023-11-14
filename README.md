@@ -1,6 +1,6 @@
 # Movie Recommender
 
-***Simulation link: https://captain785-movie-recommender-streamlit-app-vh6mqb.streamlit.app/***
+***Simulation link: https://raviranjan940.streamlit.app/***
 
 ## Overview
 This is a NLP based project which aims to recommend the movies based on content.
